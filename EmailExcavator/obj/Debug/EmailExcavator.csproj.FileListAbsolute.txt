@@ -1,0 +1,244 @@
+D:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csprojResolveAssemblyReference.cache
+D:\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.g.cs
+D:\EmailExcavator\EmailExcavator\obj\Debug\App.g.cs
+D:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.cache
+D:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.lref
+D:\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe.config
+D:\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe
+D:\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.pdb
+D:\EmailExcavator\EmailExcavator\bin\Debug\Microsoft.Identity.Client.dll
+D:\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.baml
+D:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.g.resources
+D:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.Properties.Resources.resources
+D:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.GenerateResource.Cache
+D:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.CoreCompileInputs.cache
+D:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.exe
+D:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.pdb
+C:\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe.config
+C:\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe
+C:\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.pdb
+C:\EmailExcavator\EmailExcavator\bin\Debug\Microsoft.Identity.Client.dll
+C:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csprojResolveAssemblyReference.cache
+C:\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.g.cs
+C:\EmailExcavator\EmailExcavator\obj\Debug\App.g.cs
+C:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.cache
+C:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.lref
+C:\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.baml
+C:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.g.resources
+C:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.Properties.Resources.resources
+C:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.GenerateResource.Cache
+C:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.CoreCompileInputs.cache
+C:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.exe
+C:\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.pdb
+C:\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.dll
+C:\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.xml
+D:\Senior Project\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe.config
+D:\Senior Project\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe
+D:\Senior Project\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.pdb
+D:\Senior Project\EmailExcavator\EmailExcavator\bin\Debug\Microsoft.Identity.Client.dll
+D:\Senior Project\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.dll
+D:\Senior Project\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.xml
+D:\Senior Project\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csprojResolveAssemblyReference.cache
+D:\Senior Project\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.g.cs
+D:\Senior Project\EmailExcavator\EmailExcavator\obj\Debug\App.g.cs
+D:\Senior Project\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.cache
+D:\Senior Project\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.lref
+D:\Senior Project\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.baml
+D:\Senior Project\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.g.resources
+D:\Senior Project\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.Properties.Resources.resources
+D:\Senior Project\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.GenerateResource.Cache
+D:\Senior Project\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.CoreCompileInputs.cache
+D:\Senior Project\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.exe
+D:\Senior Project\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.pdb
+D:\Senior Project\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.dll
+D:\Senior Project\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.pdb
+D:\Senior Project\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.xml
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe.config
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.pdb
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.dll
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\bin\Debug\Microsoft.Identity.Client.dll
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.dll
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.pdb
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.xml
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.xml
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csprojResolveAssemblyReference.cache
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.g.cs
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\obj\Debug\App.g.cs
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.cache
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.lref
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.baml
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.g.resources
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.Properties.Resources.resources
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.GenerateResource.Cache
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.CoreCompileInputs.cache
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.exe
+C:\newestemail\EmailExcavator (1)\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.pdb
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe.config
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.pdb
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.dll
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\bin\Debug\Microsoft.Identity.Client.dll
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.dll
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.pdb
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.xml
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.xml
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csprojResolveAssemblyReference.cache
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.g.cs
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\obj\Debug\App.g.cs
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.cache
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.lref
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.baml
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.g.resources
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.Properties.Resources.resources
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.GenerateResource.Cache
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.CoreCompileInputs.cache
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.exe
+D:\Senior Project\EmailExcavator022018\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.pdb
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe.config
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.pdb
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.dll
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\bin\Debug\Microsoft.Identity.Client.dll
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.dll
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.pdb
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.xml
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.xml
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csprojResolveAssemblyReference.cache
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.g.cs
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\obj\Debug\App.g.cs
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.cache
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.lref
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.baml
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.g.resources
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.Properties.Resources.resources
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.GenerateResource.Cache
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.CoreCompileInputs.cache
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.exe
+D:\Senior Project\EmailExcavator022018v2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.pdb
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe.config
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.pdb
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.dll
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\bin\Debug\Microsoft.Identity.Client.dll
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.dll
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.pdb
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.xml
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.xml
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csprojResolveAssemblyReference.cache
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.g.cs
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\obj\Debug\App.g.cs
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.cache
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.lref
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.baml
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.g.resources
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.Properties.Resources.resources
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.GenerateResource.Cache
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.CoreCompileInputs.cache
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.exe
+D:\Senior Project\EmailExcavator022018v2 - Copy\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.pdb
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe.config
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.pdb
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.dll
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\bin\Debug\Microsoft.Identity.Client.dll
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.dll
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.pdb
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.xml
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.xml
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csprojResolveAssemblyReference.cache
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.g.cs
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\obj\Debug\App.g.cs
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.cache
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.lref
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.baml
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.g.resources
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.Properties.Resources.resources
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.GenerateResource.Cache
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.CoreCompileInputs.cache
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.exe
+C:\emailexcavator3.7\EmailExcavator022018v3\EmailExcavator022018v3\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.pdb
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe.config
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.pdb
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.dll
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\Microsoft.Identity.Client.dll
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.dll
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.pdb
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.xml
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.xml
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csprojResolveAssemblyReference.cache
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.g.cs
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\App.g.cs
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.cache
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.lref
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.baml
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.g.resources
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.Properties.Resources.resources
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.GenerateResource.Cache
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.CoreCompileInputs.cache
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.exe
+D:\Senior Project\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.pdb
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe.config
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.pdb
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.dll
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\Microsoft.Identity.Client.dll
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.dll
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.pdb
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.xml
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.xml
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csprojResolveAssemblyReference.cache
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.g.cs
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\App.g.cs
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.cache
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.lref
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.baml
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.g.resources
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.Properties.Resources.resources
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.GenerateResource.Cache
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.CoreCompileInputs.cache
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.exe
+C:\LATESTEmailExcavator (1)\LATESTEmailExcavator\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.pdb
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe.config
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.pdb
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.dll
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\bin\Debug\Microsoft.Identity.Client.dll
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.pdb
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.xml
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csprojResolveAssemblyReference.cache
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.g.cs
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\obj\Debug\App.g.cs
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.cache
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.lref
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.baml
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.g.resources
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.Properties.Resources.resources
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.GenerateResource.Cache
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.CoreCompileInputs.cache
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.exe
+D:\Downloads\EmailExcavatorGM2\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.pdb
+D:\Downloads\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe.config
+D:\Downloads\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.exe
+D:\Downloads\EmailExcavator\EmailExcavator\bin\Debug\EmailExcavator.pdb
+D:\Downloads\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.dll
+D:\Downloads\EmailExcavator\EmailExcavator\bin\Debug\Microsoft.Identity.Client.dll
+D:\Downloads\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.pdb
+D:\Downloads\EmailExcavator\EmailExcavator\bin\Debug\HtmlAgilityPack.xml
+D:\Downloads\EmailExcavator\EmailExcavator\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csprojResolveAssemblyReference.cache
+D:\Downloads\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.g.cs
+D:\Downloads\EmailExcavator\EmailExcavator\obj\Debug\App.g.cs
+D:\Downloads\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.cache
+D:\Downloads\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator_MarkupCompile.lref
+D:\Downloads\EmailExcavator\EmailExcavator\obj\Debug\MainWindow.baml
+D:\Downloads\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.g.resources
+D:\Downloads\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.Properties.Resources.resources
+D:\Downloads\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.GenerateResource.Cache
+D:\Downloads\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.csproj.CoreCompileInputs.cache
+D:\Downloads\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.exe
+D:\Downloads\EmailExcavator\EmailExcavator\obj\Debug\EmailExcavator.pdb
